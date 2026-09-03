@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { render, screen } from '@testing-library/react'
-import App from './main'
+import App from './App'
 
 describe('AI Agent Command Center', () => {
   it('renders the command center shell', () => {
